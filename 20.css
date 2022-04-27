@@ -27,7 +27,8 @@ section .item{
 }
 section .item .a{
     color: #fff;
-    font-style: italic;
+    font-style:normal;
+    font-family:"Felix Titling";
     font-weight: bold;
     font-size: 10vw;
     top: 0;
