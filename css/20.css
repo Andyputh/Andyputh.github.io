@@ -28,7 +28,7 @@ section .item{
 section .item .a{
     color: #fff;
     font-style:normal;
-    font-family:"Felix Titling";
+    font-family:"Felix Titling", serif;
     font-weight: bold;
     font-size: 10vw;
     top: 0;
